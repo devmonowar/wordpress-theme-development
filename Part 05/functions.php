@@ -56,5 +56,5 @@ function ali_customizar_register($wp_customize){
 add_action('customize_register', 'ali_customizar_register');
 
 
-// Menu Register
-register_nav_menu( 'main_menu', __('Main Menu', 'alihossain') );
+// Menu Register system
+register_nav_menu( 'main_menu', __('Main Menu Add', 'alihossain') );
