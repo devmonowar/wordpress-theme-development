@@ -18,7 +18,7 @@
         <div class="col-md-4">
           <a href=""><img src="<?php echo get_theme_mod('ali_logo'); ?>" alt=""></a>
         </div>
-        <div class="col-md-8"></div>
+        <div class="col-md-8">menu</div>
       </div>
     </div>
   </div>
