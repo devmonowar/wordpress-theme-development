@@ -37,7 +37,7 @@ add_action('wp_enqueue_scripts', 'ali_add_google_fonts');
 function ali_customizar_register($wp_customize){
   $wp_customize->add_section('ali_header_area', array(
     'title' =>__('Header Area', 'alihossain'),
-    'description' => 'If you interested to update your header area, you can do it here.'
+    'description' => 'If you interested to update your header area, you can do it here. OK! '
   ));
 
   $wp_customize->add_setting('ali_logo', array(
