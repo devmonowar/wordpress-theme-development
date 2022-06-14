@@ -46,7 +46,7 @@ function ali_customizar_register($wp_customize){
 
   $wp_customize-> add_control(new WP_Customize_Image_Control($wp_customize, 'ali_logo', array(
     'label' => 'Logo Upload',
-    'description' => 'If you interested to change or update your logo you can do it. OK ! Good',
+    'description' => 'If you interested to change or update your logo you can do it. OK ! Good fsfsrf',
     'setting' => 'ali_logo',
     'section' => 'ali_header_area',
   ) ));
