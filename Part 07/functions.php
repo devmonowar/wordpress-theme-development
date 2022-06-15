@@ -53,7 +53,7 @@ function ali_customizar_register($wp_customize){
     'section' => 'ali_header_area',
   ) ));
 
-  // Menu Position Option Good Work
+  // Menu Position Option 
   $wp_customize->add_section('ali_menu_option', array(
     'title' => __('Menu Position Option', 'alihossain'),
     'description' => 'If you interested to change your menu position you can do it.'
